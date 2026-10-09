@@ -1,0 +1,16 @@
+2026-10-08 22:16:39 [INFO] pages.login_page: Abriendo https://www.saucedemo.com/
+2026-10-08 22:16:40 [INFO] pages.login_page: Login enviado con el usuario 'standard_user'
+2026-10-08 22:16:41 [INFO] test_add_to_cart: Productos: 6. Primero: Sauce Labs Backpack ($29.99)
+2026-10-08 22:16:46 [INFO] pages.login_page: Abriendo https://www.saucedemo.com/
+2026-10-08 22:16:47 [INFO] pages.login_page: Login enviado con el usuario 'standard_user'
+2026-10-08 22:16:48 [INFO] pages.inventory_page: Producto agregado al carrito: Sauce Labs Backpack
+2026-10-08 22:16:48 [INFO] test_add_to_cart: Producto verificado en el carrito: Sauce Labs Backpack
+2026-10-08 22:16:53 [INFO] pages.login_page: Abriendo https://www.saucedemo.com/
+2026-10-08 22:16:54 [INFO] pages.login_page: Login enviado con el usuario 'standard_user'
+2026-10-08 22:16:55 [INFO] pages.inventory_page: Producto agregado al carrito: Sauce Labs Backpack
+2026-10-08 22:16:56 [INFO] pages.checkout_page: Datos del comprador completados
+2026-10-08 22:16:56 [INFO] pages.checkout_page: Compra finalizada
+2026-10-08 22:16:56 [INFO] test_checkout: Compra completada: Thank you for your order!
+2026-10-08 22:17:02 [INFO] pages.login_page: Abriendo https://www.saucedemo.com/
+2026-10-08 22:17:05 [INFO] pages.login_page: Login enviado con el usuario 'standard_user'
+2026-10-08 22:17:06 [INFO] test_login: Login exitoso, URL actual: https://www.saucedemo.com/inventory.html
